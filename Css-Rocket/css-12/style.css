@@ -7,3 +7,18 @@
 #tak.no {
     color: coral
 }
+header .test {
+    color: coral;
+    background-color: bisque;
+}
+div.bo {
+    background-color: aqua;
+}
+
+
+footer div .bo {
+    background-color: cornflowerblue;
+}
+#man .too .do {
+    background-color: darkorchid;
+}
