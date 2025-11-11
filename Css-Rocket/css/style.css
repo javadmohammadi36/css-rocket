@@ -1,0 +1,15 @@
+li > span {
+    color: red
+}
+
+li + span {
+    background-color: aquamarine
+}
+
+li.test + span {
+    background-color: bisque;
+}
+
+li.test ~ span {
+    background-color: burlywood
+}
