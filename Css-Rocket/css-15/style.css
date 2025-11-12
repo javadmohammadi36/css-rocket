@@ -1,0 +1,15 @@
+li:hover {
+    background-color: antiquewhite;
+}
+
+li:hover a {
+    color: crimson;
+}
+
+.item:hover {
+    background-color: burlywood
+}
+
+li:first-child {
+    background-color: aquamarine
+}
