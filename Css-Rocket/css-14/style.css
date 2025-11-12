@@ -1,0 +1,15 @@
+li span {
+    color: red
+}
+
+li + span {
+    color: cadetblue
+}
+
+li.test + span {
+    background-color: beige
+}
+
+li.test ~ span {
+    background-color: blueviolet
+}
