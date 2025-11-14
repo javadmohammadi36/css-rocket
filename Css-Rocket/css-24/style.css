@@ -1,7 +1,13 @@
 header {
     width: 100%;
     background-color: bisque;
-    background-image: url(pic.jpg);
+    background-image: url(pic2.jpg);
     background-size: 200px 150px;
-    height: 400px;       
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 60%;
+    height: 400px;
+}
+p {
+    color: azure;
 }
