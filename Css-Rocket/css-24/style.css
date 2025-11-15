@@ -14,7 +14,7 @@ header {
     background-origin: border-box;
     background-clip: content-box;
     background-attachment:fixed;
-    background: linear-gradient(250deg , red 20% , blue , yellow 30% , green);
+    background : radial-gradient(red , blue);
 
 }
 p {
